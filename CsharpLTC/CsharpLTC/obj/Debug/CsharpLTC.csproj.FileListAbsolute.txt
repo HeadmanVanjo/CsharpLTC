@@ -1,0 +1,6 @@
+C:\Users\sethm\Desktop\CsharpLTC\CsharpLTC\CsharpLTC\bin\Debug\CsharpLTC.exe.config
+C:\Users\sethm\Desktop\CsharpLTC\CsharpLTC\CsharpLTC\bin\Debug\CsharpLTC.exe
+C:\Users\sethm\Desktop\CsharpLTC\CsharpLTC\CsharpLTC\bin\Debug\CsharpLTC.pdb
+C:\Users\sethm\Desktop\CsharpLTC\CsharpLTC\CsharpLTC\obj\Debug\CsharpLTC.csprojResolveAssemblyReference.cache
+C:\Users\sethm\Desktop\CsharpLTC\CsharpLTC\CsharpLTC\obj\Debug\CsharpLTC.exe
+C:\Users\sethm\Desktop\CsharpLTC\CsharpLTC\CsharpLTC\obj\Debug\CsharpLTC.pdb
